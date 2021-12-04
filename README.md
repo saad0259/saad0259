@@ -14,10 +14,10 @@
 <a href="https://t.me/saad0259">
   <img align="left" alt="Saad's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/saad0259/">
+<a href="https://instagram.com/saad00259/">
   <img align="left" alt="Saad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/saad0259/">
+<a href="https://www.facebook.com/saad00259/">
   <img align="left" alt="Saad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <!-- <a href="https://www.youtube.com/mtechviral/">
@@ -28,7 +28,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+- 🔭 I’m currently working on [A multivendor app](https://github.com/saad0259/custom_multivendor_ecommerce_app_flutter).
 - 🌱 I’m currently learning more about BlockChain, Flutter, Laravel and Crypto Trading.
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
 <!-- - 🤔 I’m looking for help with VelocityX documentation. -->
@@ -40,7 +40,7 @@
 [![Twitter: saad0259](https://img.shields.io/twitter/follow/saad0259?style=social)](https://twitter.com/saad0259)
 [![Linkedin: saad0259](https://img.shields.io/badge/-saad0259-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad0259/)](https://www.linkedin.com/in/saad0259/)
 [![GitHub saad0259](https://img.shields.io/github/followers/saad0259?label=follow&style=social)](https://github.com/saad0259)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Saad.live-2648ff?style=flat-square&logo=google-chrome)](https://Saad.live/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-TechForgery.com-2648ff?style=flat-square&logo=google-chrome)](https://techforgery.com/)
 
 
 **Languages and Tools:**  
@@ -57,11 +57,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0259&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/saad0259">
- <img align="center" src="https://github-readme-stats.ver
- cel.app/api?username=saad0259&show_icons=true&theme=light&line_height=27" alt="Saad's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=saad0259&show_icons=true&theme=light&line_height=27" alt="Saad's github stats"/>
 </a>
-<a href="https://github.com/saad0259/custom_multivendor_ecommerce_app_flutter ">
-  <img align="center" src="https://github-readme  -stats.vercel.app/api/pin/?username=saad0259&repo=custom_multivendor_ecommerce_app_flutter &theme=light" />
+<a href="https://github.com/saad0259/custom_multivendor_ecommerce_app_flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saad0259&repo=custom_multivendor_ecommerce_app_flutter &theme=light" />
 
 </a>
 <a href="https://github.com/saad0259/techforgery.com-My_Portfolio_Business_WebApp">
